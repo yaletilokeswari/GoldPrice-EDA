@@ -1,5 +1,5 @@
 # GoldPrice-EDA
-<img src = "https://i.postimg.cc/Kc01yZFW/Chat-GPT-Image-Aug-9-2025-05-47-32-PM.png" width = "600" height = "100"><br>
+<img src = "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1LVbKa.img?w=1200&h=675&m=4&q=79" width = "300" height = "300"><br>
 # Data Overview
 *The dataset captures historical gold price movements over a specific time period, providing a detailed breakdown of price behavior across different      trading sessions. Each record represents a time window during which gold was traded, along with essential price and volume information.
 * Gold is a global commodity whose price reflects economic trends, currency fluctuations, and geopolitical events. By analyzing this dataset, we can:
